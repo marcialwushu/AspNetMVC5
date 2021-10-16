@@ -45,6 +45,7 @@
     <Compile Include="Core\Models\Entity.cs" />
     <Compile Include="Models\Fornecedores\Endereco.cs" />
     <Compile Include="Models\Fornecedores\Fornecedor.cs" />
+    <Compile Include="Models\Fornecedores\TipoFornecedor.cs" />
     <Compile Include="Models\Produtos\Produto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
